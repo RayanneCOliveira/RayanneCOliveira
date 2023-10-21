@@ -1,6 +1,6 @@
 👋 Hi!
 I’m Rayanne Oliveira.
-I’m currently learning Javascript and Python.
+I’m currently learning Java and Python.
 
 <!---
 RayanneCOliveira/RayanneCOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

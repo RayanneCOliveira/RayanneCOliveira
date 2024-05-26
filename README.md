@@ -4,7 +4,7 @@ Me chamo Rayanne de Oliveira e atualmente estou em transição de carreira. Sou 
  e Golang <img src="https://github.com/RayanneCOliveira/dio-lab-open-source/assets/147012389/77cce260-57d9-4241-ba69-8d2ed8fe1097" width="18" height="20">. 
 Me apaixonei por essas duas linguagens e estou ansiosa para aplicar meus conhecimentos em projetos interessantes.  
 &nbsp;
-## Interesses
+### Interesses
 📚 Livros: Sou apaixonada por livros, especialmente os de romance. Se você tiver alguma recomendação, adoraria saber!
 
 🎥 Filmes: Amo séries e filmes de ficção científica, suspense e fantasia. Sou apaixonada por Star Trek. <img src="https://github.com/RayanneCOliveira/dio-lab-open-source/assets/147012389/60391303-dde6-4e3d-914b-b4845e20a2e9" width="20" height="20">  

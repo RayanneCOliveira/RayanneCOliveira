@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Me chamo Rayanne de Oliveira e atualmente estou em transição de carreira. Sou estudante de Análise e Desenvolvimento de Sistemas e estou focada em aprender Java <img src="https://github.com/RayanneCOliveira/dio-lab-open-source/assets/147012389/8d86d173-ff45-48e8-8c82-ff42b2a2988d)" width="30" height="20">
+Me chamo Rayanne Silveira e atualmente estou em transição de carreira. Sou estudante de Análise e Desenvolvimento de Sistemas e estou focada em aprender Java <img src="https://github.com/RayanneCOliveira/dio-lab-open-source/assets/147012389/8d86d173-ff45-48e8-8c82-ff42b2a2988d)" width="30" height="20">
  e Golang <img src="https://github.com/RayanneCOliveira/dio-lab-open-source/assets/147012389/77cce260-57d9-4241-ba69-8d2ed8fe1097" width="18" height="20">. 
 Me apaixonei por essas duas linguagens e estou ansiosa para aplicar meus conhecimentos em projetos interessantes.  
 &nbsp;
